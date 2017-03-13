@@ -16,6 +16,7 @@ public class GitAux {
     }
     
     public void metodoAlumno2(){
+	//Comentario Tomas
         System.out.println("metodo 2");
     }
     
