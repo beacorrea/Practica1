@@ -12,7 +12,10 @@ public class GitAux {
     
     public void metodoAlumno1(){
         System.out.println("metodo 1");
-	System.out.println("Modificado por Beatriz Correa Lopera");
+        System.out.println("Modificado por Beatriz Correa Lopera");
+
+        //Version Alejandro
+        //Version Alex2
     }
     
     public void metodoAlumno2(){
