@@ -12,6 +12,8 @@ public class GitAux {
     
     public void metodoAlumno1(){
         System.out.println("metodo 1");
+        Version Alejandro
+        Version Alex2
     }
     
     public void metodoAlumno2(){
