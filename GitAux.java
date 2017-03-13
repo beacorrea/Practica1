@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 package prgitejemplo;
-
+	//Comentario Beatriz
 /**
  *
  * @author bertoa
@@ -12,6 +12,7 @@ public class GitAux {
     
     public void metodoAlumno1(){
         System.out.println("metodo 1");
+	System.out.println("Modificado por Beatriz Correa Lopera");
     }
     
     public void metodoAlumno2(){

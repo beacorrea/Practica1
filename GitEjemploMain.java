@@ -9,7 +9,7 @@ package prgitejemplo;
  * @author alumno: <escribe tu nombre aqui>
  */
 public class GitEjemploMain {
-
+	//Comentario Beatriz
     /**
      * @param args the command line arguments
      */
